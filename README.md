@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:
-09.9.23
+06.9.23
 ## AIM:
 To develop a simple webserver to serve html pages.
 
